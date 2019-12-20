@@ -20,10 +20,10 @@ To create the application you should use: REACT NATIVE (Expo is optional)
 
 ## Nice to have
 
-- Deployed code (use Github Pages or any cloud service you desire)
 - Linted code
 - Custom design like the logo and banners, do not forget to send us the original file (psd, ai, etc)
 - Animations
+- The compiled app (IPA, APK or AAB files)
 - Anything else you would like to add
 
 ## When you are finished
